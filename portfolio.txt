@@ -1,5 +1,0 @@
-Stock Portfolio Report
----------------------
-AAPL  Quantity:3  Value:564
-
-Total Investment = 564
